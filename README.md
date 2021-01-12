@@ -1,7 +1,7 @@
 # Machine Learning - Classification (Single Label - Multiclass)
 
-This was the final project of my online learning class.
-It is about classifying the price range of cellphones which given in the dataset.
+This was the final project of my online bootcamp class.
+It is about classifying the price range of cellphones which are given in the dataset.
 
 There were two datasets involved:
 - Training Dataset:
